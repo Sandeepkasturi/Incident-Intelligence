@@ -52,7 +52,7 @@ x_2064375_incide_0
 
 The application follows a layered ServiceNow architecture separating UI interaction, business logic and persistence.
 
-![Architecture Diagram](project_s1_architecture.png)
+![Architecture Diagram](https://github.com/Sandeepkasturi/Incident-Intelligence/blob/main/Screenshots/project_s1_architecture.png?raw=true)
 
 ---
 
