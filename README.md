@@ -2,7 +2,7 @@
 
 > Intelligent Incident Auto-Classification Engine built for the ServiceNow Platform
 
-![Screenshots](project_s1_architecture.png)
+![Architecture](https://github.com/Sandeepkasturi/Incident-Intelligence/blob/main/Screenshots/project_s1_architecture.png?raw=true)
 
 ---
 
