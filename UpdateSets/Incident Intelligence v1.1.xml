@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-06-30 16:51:43">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<application_name>Incident Intelligence </application_name>
+<application_scope>x_2064375_incide_0</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Incident Intelligence is an Automated Scoped application that auto tags your work</description>
+<inserted/>
+<name>Incident Intelligence v1.1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>6ccc1e29c371031013481cedd40131b6</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>e6742625c3b1031013481cedd4013179</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_e45e3f84c37d03d013481cedd4013154</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>SNS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo>886e7704c37d03d013481cedd40131cd</logo><menu/><name>Incident Intelligence </name><package_json/><package_resolver_version>1.0.0</package_resolver_version><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_2064375_incide_0</scope><scoped_administration>false</scoped_administration><short_description>Auto-categorizes incidents using keyword intelligence and posts audit work notes</short_description><source>x_2064375_incide_0</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 07:33:19</sys_created_on><sys_id>e45e3f84c37d03d013481cedd4013154</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 07:33:36</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=e45e3f84c37d03d013481cedd4013154"/><sys_attachment action="INSERT_OR_UPDATE"><average_image_color/><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>image/png</content_type><file_name>incident intelligence.png</file_name><hash>82c41a04aa7d08ab7af1e2db223db271ccd2421e935b1a8a61f9f7a62accd1d7</hash><image_height>512</image_height><image_width>512</image_width><size_bytes>18889</size_bytes><size_compressed>18182</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 07:33:34</sys_created_on><sys_id>886e7704c37d03d013481cedd40131cd</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 07:33:36</sys_updated_on><table_name>sys_app</table_name><table_sys_id>e45e3f84c37d03d013481cedd4013154</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAA/1x7ZVhU39f2mSGlBwYQkBpSJEQkpRlEJQRp6e5uqUEEBlAQRUCaUQFBSqQbQUBaultCupv3DL//8+X9MBdcZ++z9151r7X2WStSXU2JlIieCAAA0sePkM8AAApgf4T44J9938FT8M8N10f6HgBA9hP7g7S55FqCD+k8FfU8NV2sPX3M3K0AHx8ffjtnBw8LM1crfhd3m5RNSXoAYAEeI+W0fFPXp/xMPwylSW8vn037vy9mf8W3Ho3KrMzEeP3Ee6wHp241tflGI0dJ+XnIOzut59w6uXzgY7lFPs27t7jU/zyfy7nyGbyszKxERT3Pb69/okfZ/G5p+iwoOJgwYalefyuw1yi910R4uX45sOXdXt2y1JY4FBFlL/7PPSBE4fGUVLEQbrt6nKfyuufoyjfEKtFnnBX2t2SocoI+OdzHeSu4IbSyOQMSWp64sw8WRIIIY9J3quwBOdgtHUUclAXqlu6KYIhO9PMhe7sy2fyhhx/0dIShOl9m/lxcBE7xED+kxUUcRsgjnTizcSg4vp8l9mymr+8dkebtU8Vd8vwZebbhoHBG+I1EtgZnxVnC5s5GBOaZ4lF0O3/YOs2QkblFDd/o7frGwj/9XwhUItifaPECaAS3v1l5jmYO04UUEyN0gulbAkmI+V0UK4CPY2sjhrErA0Qgo7yNnNSOz1as</data><length>696</length><position>0</position><sys_attachment display_value="incident intelligence.png" sys_id="886e7704c37d03d013481cedd40131cd">886e7704c37d03d013481cedd40131cd</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 07:33:33</sys_created_on><sys_id>c86e7704c37d03d013481cedd40131cd</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>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</data><length>23548</length><position>1</position><sys_attachment display_value="incident intelligence.png" sys_id="886e7704c37d03d013481cedd40131cd">886e7704c37d03d013481cedd40131cd</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 07:33:33</sys_created_on><sys_id>8c6e7704c37d03d013481cedd40131cd</sys_id></sys_attachment_doc></record_update>]]></payload>
+<payload_hash>1519940278</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>22742625c3b1031013481cedd401317a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f02d936a80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>Incident Intelligence </target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>416eff84267d03d0292b1e174fcc3068</update_guid>
+<update_guid_history>416eff84267d03d0292b1e174fcc3068:1519940278,e86e77046d7d03d05b6632fd77d158d4:-2142075804,995e7f84717d03d0160c99b071bbbe38:-202048399</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_571840d8c3bd03d013481cedd40131e4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>write</operation><source_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 08:16:06</sys_created_on><sys_id>571840d8c3bd03d013481cedd40131e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="Incident Intelligence " source="x_2064375_incide_0">e45e3f84c37d03d013481cedd4013154</sys_package><sys_policy/><sys_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</sys_scope><sys_update_name>sys_scope_privilege_571840d8c3bd03d013481cedd40131e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 08:16:06</sys_updated_on><target_name>incident</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-926078104</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>22742669c3b1031013481cedd40131f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f03001bf50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>incident</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>d71840d82bbd03d036eec0cb8196cbe6</update_guid>
+<update_guid_history>d71840d82bbd03d036eec0cb8196cbe6:-926078104</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_71fef308c37d03d013481cedd40131d5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="DELETE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;IncidentTagger&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[var IncidentTagger = Class.create();
+
+IncidentTagger.prototype = {
+
+    initialize: function() {
+        // Keyword map: each entry defines keywords, and the resulting
+        // category, subcategory, and assignment group.
+        // Ordered from most specific to least specific.
+        this.mappings = [
+            {
+                keywords: ['vpn', 'remote access', 'cisco anyconnect', 'pulse secure', 'tunnel'],
+                category: 'network',
+                subcategory: 'vpn',
+                assignment_group: 'Network Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['wifi', 'wireless', 'wi-fi', 'ssid', 'access point', 'no internet', 'internet down'],
+                category: 'network',
+                subcategory: 'wireless',
+                assignment_group: 'Network Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['password', 'reset password', 'forgot password', 'locked out', 'account locked', 'cannot login', "can't login", 'login failed'],
+                category: 'software',
+                subcategory: 'account_management',
+                assignment_group: 'IT Help Desk',
+                confidence: 'high'
+            },
+            {
+                keywords: ['outlook', 'email not working', 'cannot send email', "can't receive", 'mailbox', 'exchange'],
+                category: 'software',
+                subcategory: 'email',
+                assignment_group: 'Messaging Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['laptop', 'computer slow', 'pc crash', 'blue screen', 'bsod', 'not turning on', 'keyboard', 'mouse', 'screen broken'],
+                category: 'hardware',
+                subcategory: 'desktop',
+                assignment_group: 'Hardware Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['printer', 'print', 'scanner', 'printing issue', 'paper jam'],
+                category: 'hardware',
+                subcategory: 'printer',
+                assignment_group: 'Hardware Support',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['software install', 'install application', 'license', 'software not working', 'application crash', 'app error'],
+                category: 'software',
+                subcategory: 'application',
+                assignment_group: 'Software Support',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['server down', 'server error', 'database', 'service unavailable', '503', '502', 'timeout', 'outage'],
+                category: 'software',
+                subcategory: 'server',
+                assignment_group: 'Infrastructure Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['access request', 'permission', 'unauthorized', 'access denied', 'forbidden', 'role'],
+                category: 'software',
+                subcategory: 'access',
+                assignment_group: 'IT Help Desk',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['mobile', 'phone', 'iphone', 'android', 'teams app', 'mobile device'],
+                category: 'hardware',
+                subcategory: 'mobile',
+                assignment_group: 'Mobile Support',
+                confidence: 'medium'
+            }
+        ];
+    },
+
+    /**
+     * Main entry point. Call this from the Business Rule.
+     * @param {string} shortDescription - The incident's short_description value
+     * @returns {Object} result - {matched: bool, category, subcategory, assignment_group, confidence, matched_keywords}
+     */
+    classify: function(shortDescription) {
+        if (!shortDescription) {
+            return this._noMatch();
+        }
+
+        // Normalize: lowercase, trim, collapse multiple spaces
+        var text = shortDescription.toLowerCase().trim().replace(/\s+/g, ' ');
+
+        var bestMatch = null;
+        var bestScore = 0;
+
+        for (var i = 0; i &lt; this.mappings.length; i++) {
+            var mapping = this.mappings[i];
+            var score = this._scoreMapping(text, mapping.keywords);
+
+            if (score &gt; bestScore) {
+                bestScore = score;
+                bestMatch = mapping;
+            }
+        }
+
+        // Require at least one keyword hit to classify
+        if (bestScore === 0 || !bestMatch) {
+            return this._noMatch();
+        }
+
+        return {
+            matched: true,
+            category: bestMatch.category,
+            subcategory: bestMatch.subcategory,
+            assignment_group: bestMatch.assignment_group,
+            confidence: bestMatch.confidence,
+            score: bestScore,
+            matched_keywords: this._getMatchedKeywords(text, bestMatch.keywords)
+        };
+    },
+
+    /**
+     * Scores a mapping by counting how many of its keywords appear in the text.
+     * Returns 0 if no keywords matched.
+     */
+    _scoreMapping: function(text, keywords) {
+        var score = 0;
+        for (var k = 0; k &lt; keywords.length; k++) {
+            if (text.indexOf(keywords[k]) !== -1) {
+                score++;
+            }
+        }
+        return score;
+    },
+
+    /**
+     * Returns which specific keywords matched (for work note transparency).
+     */
+    _getMatchedKeywords: function(text, keywords) {
+        var matched = [];
+        for (var k = 0; k &lt; keywords.length; k++) {
+            if (text.indexOf(keywords[k]) !== -1) {
+                matched.push(keywords[k]);
+            }
+        }
+        return matched.join(', ');
+    },
+
+    _noMatch: function() {
+        return {
+            matched: false,
+            category: '',
+            subcategory: '',
+            assignment_group: '',
+            confidence: 'none',
+            score: 0,
+            matched_keywords: ''
+        };
+    },
+
+    type: 'IncidentTagger'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-26 07:43:28&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;71fef308c37d03d013481cedd40131d5&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;IncidentTagger&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Incident Intelligence " source="x_2064375_incide_0"&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Incident Intelligence "&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_71fef308c37d03d013481cedd40131d5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-26 07:48:04&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=71fef308c37d03d013481cedd40131d5"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>788234606</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>26742669c3b1031013481cedd40131f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f02f4be140000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table>incident</table>
+<target_name>IncidentTagger</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>5d450054a4bd03d056e222271ce7cf3e</update_guid>
+<update_guid_history>5d450054a4bd03d056e222271ce7cf3e:788234606,34b10c5c9d7d03d07f54e3c1c6c1f68c:1707653474,91a048d83d7d03d0eeda46d10541383b:-814402161</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_b15e7f84c37d03d013481cedd40131d2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2064375_incide_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 07:33:24</sys_created_on><sys_id>b15e7f84c37d03d013481cedd40131d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2064375_incide_0.user</sys_name><sys_package display_value="Incident Intelligence " source="x_2064375_incide_0">e45e3f84c37d03d013481cedd4013154</sys_package><sys_policy/><sys_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</sys_scope><sys_update_name>sys_user_role_b15e7f84c37d03d013481cedd40131d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 07:33:24</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>2142974484</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>2a742669c3b1031013481cedd40131f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f02d905290000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>x_2064375_incide_0.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>b15e7f84fb7d03d0adcb8acbd89106d6</update_guid>
+<update_guid_history>b15e7f84fb7d03d0adcb8acbd89106d6:2142974484</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_971840d8c3bd03d013481cedd40131e0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 08:16:06</sys_created_on><sys_id>971840d8c3bd03d013481cedd40131e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.update</sys_name><sys_package display_value="Incident Intelligence " source="x_2064375_incide_0">e45e3f84c37d03d013481cedd4013154</sys_package><sys_policy/><sys_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</sys_scope><sys_update_name>sys_scope_privilege_971840d8c3bd03d013481cedd40131e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 08:16:06</sys_updated_on><target_name>GlideRecord.update</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>443790177</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>66742669c3b1031013481cedd40131f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f03001b750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>GlideRecord.update</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>1b1840d885bd03d0a90ff3f76696e8e2</update_guid>
+<update_guid_history>1b1840d885bd03d0a90ff3f76696e8e2:443790177</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_f3760454c3bd03d013481cedd4013127</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;IncidentTagger - Auto-Tag on Create&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+    var defaultCategories = ['inquiry',  ''];
+    var currentCategory = current.category.toString().toLowerCase();
+    
+    var userSetCategory = (currentCategory !== '' &amp;&amp; 
+                           defaultCategories.indexOf(currentCategory) === -1);
+    
+    if (userSetCategory) {
+        gs.info('IncidentTagger: User set category manually, skipping.');
+        return;
+    }
+
+    var tagger = new x_2064375_incide_0.IncidentTagger();
+    var result = tagger.classify(current.short_description.toString());
+
+    if (!result.matched) {
+        gs.info('IncidentTagger: No classification match. Description: ' + 
+                current.short_description);
+        return;
+    }
+
+    current.category = result.category;
+    current.subcategory = result.subcategory;
+
+    var groupGR = new GlideRecord('sys_user_group');
+    groupGR.addQuery('name', result.assignment_group);
+    groupGR.setLimit(1);
+    groupGR.query();
+
+    if (groupGR.next()) {
+        current.assignment_group = groupGR.sys_id;
+    } else {
+        gs.warn('IncidentTagger: Assignment group not found: ' + result.assignment_group);
+    }
+
+    gs.info('IncidentTagger: Classified as ' + result.category + '/' + 
+            result.subcategory + ' | Group: ' + result.assignment_group);
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-26 08:10:32&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f3760454c3bd03d013481cedd4013127&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;IncidentTagger - Auto-Tag on Create&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Incident Intelligence " source="x_2064375_incide_0"&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Incident Intelligence "&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_f3760454c3bd03d013481cedd4013127&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-26 08:35:35&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f3760454c3bd03d013481cedd4013127"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-892961030</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>6a742669c3b1031013481cedd40131f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f0311f3a20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table>incident</table>
+<target_name>IncidentTagger - Auto-Tag on Create</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>389c0c14cbfd03d03c67ee8ee618c0ad</update_guid>
+<update_guid_history>389c0c14cbfd03d03c67ee8ee618c0ad:-892961030,d12a04dcabbd03d067f53ef167ed6716:1237313128,d1a9c09cfdbd03d05f7f7dce271531fa:504069095,75d604189fbd03d0cfbd58c8b87b0681:-666422136</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_cf1840d8c3bd03d013481cedd401317e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 08:16:05</sys_created_on><sys_id>cf1840d8c3bd03d013481cedd401317e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="Incident Intelligence " source="x_2064375_incide_0">e45e3f84c37d03d013481cedd4013154</sys_package><sys_policy/><sys_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</sys_scope><sys_update_name>sys_scope_privilege_cf1840d8c3bd03d013481cedd401317e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 08:16:05</sys_updated_on><target_name>incident</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-1790989903</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>aa742669c3b1031013481cedd40131f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f030018c90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>incident</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>031840d8bebd03d00f2b957361db0f83</update_guid>
+<update_guid_history>031840d8bebd03d00f2b957361db0f83:-1790989903</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_071840d8c3bd03d013481cedd4013185</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 08:16:05</sys_created_on><sys_id>071840d8c3bd03d013481cedd4013185</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.setWorkflow</sys_name><sys_package display_value="Incident Intelligence " source="x_2064375_incide_0">e45e3f84c37d03d013481cedd4013154</sys_package><sys_policy/><sys_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</sys_scope><sys_update_name>sys_scope_privilege_071840d8c3bd03d013481cedd4013185</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 08:16:05</sys_updated_on><target_name>GlideRecord.setWorkflow</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>1174767671</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>ae742625c3b1031013481cedd401317a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f03001a2e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>GlideRecord.setWorkflow</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>871840d892bd03d0541c31762bcb8587</update_guid>
+<update_guid_history>871840d892bd03d0541c31762bcb8587:1174767671</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_5755c054c3bd03d013481cedd401319c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_2064375_incide_0.IncidentTagger&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;IncidentTagger&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var IncidentTagger = Class.create();
+
+IncidentTagger.prototype = {
+
+    initialize: function() {
+        this.mappings = [
+            {
+                keywords: ['vpn', 'remote access', 'cisco anyconnect', 'pulse secure', 'tunnel'],
+                category: 'network',
+                subcategory: 'vpn',
+                assignment_group: 'Network Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['wifi', 'wireless', 'wi-fi', 'ssid', 'access point', 'no internet', 'internet down'],
+                category: 'network',
+                subcategory: 'wireless',
+                assignment_group: 'Network Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['password', 'reset password', 'forgot password', 'locked out', 'account locked', 'cannot login', "can't login", 'login failed'],
+                category: 'software',
+                subcategory: 'account_management',
+                assignment_group: 'IT Help Desk',
+                confidence: 'high'
+            },
+            {
+                keywords: ['outlook', 'email not working', 'cannot send email', "can't receive", 'mailbox', 'exchange'],
+                category: 'software',
+                subcategory: 'email',
+                assignment_group: 'Messaging Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['laptop', 'computer slow', 'pc crash', 'blue screen', 'bsod', 'not turning on', 'keyboard', 'mouse', 'screen broken'],
+                category: 'hardware',
+                subcategory: 'desktop',
+                assignment_group: 'Hardware Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['printer', 'print', 'scanner', 'printing issue', 'paper jam'],
+                category: 'hardware',
+                subcategory: 'printer',
+                assignment_group: 'Hardware Support',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['software install', 'install application', 'license', 'software not working', 'application crash', 'app error'],
+                category: 'software',
+                subcategory: 'application',
+                assignment_group: 'Software Support',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['server down', 'server error', 'database', 'service unavailable', '503', '502', 'timeout', 'outage'],
+                category: 'software',
+                subcategory: 'server',
+                assignment_group: 'Infrastructure Support',
+                confidence: 'high'
+            },
+            {
+                keywords: ['access request', 'permission', 'unauthorized', 'access denied', 'forbidden', 'role'],
+                category: 'software',
+                subcategory: 'access',
+                assignment_group: 'IT Help Desk',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['mobile', 'phone', 'iphone', 'android', 'teams app', 'mobile device'],
+                category: 'hardware',
+                subcategory: 'mobile',
+                assignment_group: 'Mobile Support',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['teams', 'microsoft teams', 'video call', 'meeting', 'collaboration'],
+                category: 'software',
+                subcategory: 'collaboration',
+                assignment_group: 'Software Support',
+                confidence: 'medium'
+            },
+            {
+                keywords: ['slow', 'performance', 'lagging', 'freezing', 'unresponsive'],
+                category: 'hardware',
+                subcategory: 'performance',
+                assignment_group: 'Hardware Support',
+                confidence: 'low'
+            }
+        ];
+    },
+
+    classify: function(shortDescription) {
+        if (!shortDescription) {
+            return this._noMatch();
+        }
+
+        var text = shortDescription.toLowerCase().trim().replace(/\s+/g, ' ');
+
+        var bestMatch = null;
+        var bestScore = 0;
+
+        for (var i = 0; i &lt; this.mappings.length; i++) {
+            var mapping = this.mappings[i];
+            var score = this._scoreMapping(text, mapping.keywords);
+
+            if (score &gt; bestScore) {
+                bestScore = score;
+                bestMatch = mapping;
+            }
+        }
+
+        if (bestScore === 0 || !bestMatch) {
+            return this._noMatch();
+        }
+
+        return {
+            matched: true,
+            category: bestMatch.category,
+            subcategory: bestMatch.subcategory,
+            assignment_group: bestMatch.assignment_group,
+            confidence: bestMatch.confidence,
+            score: bestScore,
+            matched_keywords: this._getMatchedKeywords(text, bestMatch.keywords)
+        };
+    },
+
+    _scoreMapping: function(text, keywords) {
+        var score = 0;
+        for (var k = 0; k &lt; keywords.length; k++) {
+            if (text.indexOf(keywords[k]) !== -1) {
+                score++;
+            }
+        }
+        return score;
+    },
+
+    _getMatchedKeywords: function(text, keywords) {
+        var matched = [];
+        for (var k = 0; k &lt; keywords.length; k++) {
+            if (text.indexOf(keywords[k]) !== -1) {
+                matched.push(keywords[k]);
+            }
+        }
+        return matched.join(', ');
+    },
+
+    _noMatch: function() {
+        return {
+            matched: false,
+            category: '',
+            subcategory: '',
+            assignment_group: '',
+            confidence: 'none',
+            score: 0,
+            matched_keywords: ''
+        };
+    },
+
+    type: 'IncidentTagger'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-26 08:05:06&lt;/sys_created_on&gt;&lt;sys_id&gt;5755c054c3bd03d013481cedd401319c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;IncidentTagger&lt;/sys_name&gt;&lt;sys_package display_value="Incident Intelligence " source="x_2064375_incide_0"&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Incident Intelligence "&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_5755c054c3bd03d013481cedd401319c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-26 08:05:06&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1668362220</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>ae742669c3b1031013481cedd40131f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f02f60f9c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>IncidentTagger</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>aa950c5447bd03d0388d4310ee7a7452</update_guid>
+<update_guid_history>aa950c5447bd03d0388d4310ee7a7452:-1668362220</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_2f1d4c14c3fd03d013481cedd401319e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 08:37:58</sys_created_on><sys_id>2f1d4c14c3fd03d013481cedd401319e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user_group</sys_name><sys_package display_value="Incident Intelligence " source="x_2064375_incide_0">e45e3f84c37d03d013481cedd4013154</sys_package><sys_policy/><sys_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</sys_scope><sys_update_name>sys_scope_privilege_2f1d4c14c3fd03d013481cedd401319e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 08:37:58</sys_updated_on><target_name>sys_user_group</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-2139369967</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>e2742625c3b1031013481cedd401317b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f0314203b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>sys_user_group</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>671d4c1450fd03d0e5ba7d9a86c8dca2</update_guid>
+<update_guid_history>671d4c1450fd03d0e5ba7d9a86c8dca2:-2139369967</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_995e7f84c37d03d013481cedd4013187</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default admin role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2064375_incide_0.admin</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 07:33:23</sys_created_on><sys_id>995e7f84c37d03d013481cedd4013187</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2064375_incide_0.admin</sys_name><sys_package display_value="Incident Intelligence " source="x_2064375_incide_0">e45e3f84c37d03d013481cedd4013154</sys_package><sys_policy/><sys_scope display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</sys_scope><sys_update_name>sys_user_role_995e7f84c37d03d013481cedd4013187</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 07:33:23</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>691383284</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>e2742669c3b1031013481cedd40131f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f02d902110000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table/>
+<target_name>x_2064375_incide_0.admin</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>255e7f84437d03d0850493f2301b658f</update_guid>
+<update_guid_history>255e7f84437d03d0850493f2301b658f:691383284</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Incident Intelligence ">e45e3f84c37d03d013481cedd4013154</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_0d17c818c3bd03d013481cedd4013176</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition&gt;current.category != '' &amp;amp;&amp;amp; current.category != null&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;IncidentTagger - Post Work Note&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+    var tagger = new x_2064375_incide_0.IncidentTagger();
+    var result = tagger.classify(current.short_description.toString());
+
+    if (!result.matched) {
+        return;
+    }
+
+    var workNote = [];
+    workNote.push('[Incident Intelligence] Auto-Classification Applied');
+    workNote.push('');
+    workNote.push('Automatically categorized based on keyword analysis.');
+    workNote.push('');
+    workNote.push('Classification Details:');
+    workNote.push('  Category         : ' + result.category);
+    workNote.push('  Subcategory      : ' + result.subcategory);
+    workNote.push('  Assignment Group : ' + result.assignment_group);
+    workNote.push('  Confidence       : ' + result.confidence);
+    workNote.push('  Matched Keywords : ' + result.matched_keywords);
+    workNote.push('');
+    workNote.push('If incorrect, update Category and Assignment Group manually.');
+
+    var incGR = new GlideRecord('incident');
+    if (incGR.get(current.sys_id)) {
+        incGR.work_notes = workNote.join('\n');
+        incGR.update();
+    }
+
+    gs.info('IncidentTagger: Work note posted on ' + current.number);
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-26 08:12:43&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;0d17c818c3bd03d013481cedd4013176&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;IncidentTagger - Post Work Note&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Incident Intelligence " source="x_2064375_incide_0"&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Incident Intelligence "&gt;e45e3f84c37d03d013481cedd4013154&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_0d17c818c3bd03d013481cedd4013176&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-26 15:12:57&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0d17c818c3bd03d013481cedd4013176"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2027020023</payload_hash>
+<remote_update_set display_value="Incident Intelligence v1.1">e6742625c3b1031013481cedd4013179</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-30 16:51:41</sys_created_on>
+<sys_id>ee742669c3b1031013481cedd40131f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f047dc2a80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-30 16:51:41</sys_updated_on>
+<table>incident</table>
+<target_name>IncidentTagger - Post Work Note</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>3d87a958d6b943d042f8e74bb10196ca</update_guid>
+<update_guid_history>3d87a958d6b943d042f8e74bb10196ca:2027020023,395704589fbd03d00d15545a7c9e61eb:-1558252042</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
